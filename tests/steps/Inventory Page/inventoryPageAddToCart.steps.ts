@@ -8,7 +8,7 @@ let inventoryPage: InventoryPage
 
 Then('I should see item', async function () {
     inventoryPage = new InventoryPage(pageFixture.page);
-    const item = inventoryPage.item
+    const item = inventoryPage.itemList
 
     expect(item).toBeVisible;
   });

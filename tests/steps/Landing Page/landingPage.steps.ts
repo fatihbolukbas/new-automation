@@ -7,25 +7,23 @@ import { urls } from '../../../config/urls';
 let landingPage: LandingPage;
 
 Given('I navigate to the landing page', async function () {
-    landingPage = new LandingPage(pageFixture.page);
+    landingPage = new LandingPage(pageFixture.page)
     await landingPage.navigateTo(urls.BASE_URL);
 });
 
 Then('I should verify the landing page url', async function () {
-    await expect(landingPage.page).toHaveURL(urls.BASE_URL);
+    await expect(pageFixture.page).toHaveURL(urls.BASE_URL);
 });
 
 Then('I should see e-mail and password fields', async function () {
-    const emailField = landingPage.emailField;
-    const passwordField = landingPage.passwordField;
-
-    await expect(emailField).toBeVisible();
-    await expect(passwordField).toBeVisible();
-
+    await expect(landingPage.emailField).toBeVisible();
+    await expect(landingPage.passwordField).toBeVisible();
 });
 
 Then('I should see the login button', async function () {
-    const loginButton = landingPage.loginButton;
+    await expect(landingPage.loginButton).toBeVisible();
+});
 
-    await expect(loginButton).toBeVisible();
+Then('I click the login button', async function () {
+    await landingPage.clickElement(landingPage.loginButton);
 });

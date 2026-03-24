@@ -20,8 +20,12 @@ Before(async function () {
 });
 
 After(async function () {
-    await pageFixture.page.close();
-    await context.close();
+    if (pageFixture.page && !pageFixture.page.isClosed()) {
+        await pageFixture.page.close();
+    }
+    if (context) {
+        await context.close();
+    }
 });
 
 AfterAll(async function () {

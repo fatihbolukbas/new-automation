@@ -9,4 +9,3 @@ Scenario: Verify Invalid Login
     And I fill in the password field with an invalid password
     And I click the login button
     Then I should see an error message  
-
