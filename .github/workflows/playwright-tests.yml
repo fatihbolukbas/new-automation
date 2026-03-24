@@ -1,0 +1,33 @@
+name: Playwright BDD Tests
+
+# Bu pipeline ne zaman çalışsın?
+on:
+  push:
+    branches: [ main, master ] # Main dalına kod atıldığında
+  pull_request:
+    branches: [ main, master ] # Veya PR açıldığında
+
+jobs:
+  test-execution:
+    # Hangi işletim sisteminde çalışsın? (En hızlısı Ubuntu'dur)
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 📥 Kodu GitHub'dan Çek
+      uses: actions/checkout@v4
+
+    - name: ⚙️ Node.js Kurulumu
+      uses: actions/setup-node@v4
+      with:
+        node-version: 18 # Projemiz için uygun Node versiyonu
+
+    - name: 📦 Bağımlılıkları Yükle (npm install)
+      run: npm install
+
+    - name: 🌐 Playwright Tarayıcılarını Kur
+      # Projende chromium kullandığımız için sadece onu indiriyoruz, test süresini kısaltır
+      run: npx playwright install --with-deps chromium
+
+    - name: 🚀 BDD Testlerini Çalıştır
+      # package.json içindeki test scriptin neyse onu çalıştırır
+      run: npm test
