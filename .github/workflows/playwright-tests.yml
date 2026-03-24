@@ -12,10 +12,6 @@ jobs:
     # Hangi işletim sisteminde çalışsın? (En hızlısı Ubuntu'dur)
     runs-on: ubuntu-latest
 
-    defaults:
-      run:
-        working-directory: ./Test/src
-
     steps:
     - name: 📥 Kodu GitHub'dan Çek
       uses: actions/checkout@v4
