@@ -17,17 +17,19 @@ jobs:
     - name: ⚙️ Node.js Kurulumu
       uses: actions/setup-node@v4
       with:
-        # 18 olan kısmı 20 yapıyoruz
-        node-version: 20 
-        cache: 'npm'
+        node-version: 20
+        cache: 'npm' # Hızlandırmak için cache ekledik
 
     - name: 📦 Bağımlılıkları Yükle
-      run: npm install
+      # npm install yerine npm ci daha stabildir (package-lock.json'ı baz alır)
+      run: npm ci || npm install
 
     - name: 🌐 Playwright Tarayıcılarını Kur
+      # sh: 1: playwright: Permission denied hatasını engellemek için npx ile çalıştırıyoruz
       run: npx playwright install --with-deps chromium
 
     - name: 🚀 BDD Testlerini Çalıştır
+      # CI=true parametresi Playwright'ı otomatik headless moda sokar
       run: npm test
       env:
         CI: true
