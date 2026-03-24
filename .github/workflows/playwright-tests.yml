@@ -18,18 +18,31 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: 20
-        cache: 'npm' # Hızlandırmak için cache ekledik
+        cache: 'npm'
 
     - name: 📦 Bağımlılıkları Yükle
-      # npm install yerine npm ci daha stabildir (package-lock.json'ı baz alır)
       run: npm ci || npm install
 
     - name: 🌐 Playwright Tarayıcılarını Kur
-      # sh: 1: playwright: Permission denied hatasını engellemek için npx ile çalıştırıyoruz
       run: npx playwright install --with-deps chromium
 
     - name: 🚀 BDD Testlerini Çalıştır
-      # CI=true parametresi Playwright'ı otomatik headless moda sokar
       run: npm test
       env:
         CI: true
+
+    - name: 📊 Test Raporunu Yükle (Her zaman)
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: cucumber-report
+        path: cucumber-report.html
+        retention-days: 30
+
+    - name: 📈 Cucumber JSON Sonuçlarını Yükle
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: cucumber-results
+        path: cucumber.json
+        retention-days: 30
