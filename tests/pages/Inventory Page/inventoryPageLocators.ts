@@ -48,4 +48,8 @@ export class InventoryPage extends BaseActions {
         return this.page.locator('#remove-sauce-labs-backpack');
     }
 
+    get logoutButton(): Locator {
+        return this.page.locator('#logout_sidebar_link');
+    }
+
 }

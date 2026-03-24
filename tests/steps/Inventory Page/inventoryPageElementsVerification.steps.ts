@@ -14,21 +14,27 @@ Then('I should see the inventory page header', async function () {
 });
 
 Then('I should see the inventory page title text', async function () {
-    inventoryPage = new InventoryPage(pageFixture.page);
+    if (!inventoryPage) {
+        inventoryPage = new InventoryPage(pageFixture.page);
+    }
     const pageTitle = inventoryPage.inventoryPageTitleText;
 
     await expect(pageTitle).toHaveText(titleNames.PAGE_TITLE);
 });
 
 Then('I should see the inventory page product list', async function () {
-    inventoryPage = new InventoryPage(pageFixture.page);
+    if (!inventoryPage) {
+        inventoryPage = new InventoryPage(pageFixture.page);
+    }
     const productList = inventoryPage.inventoryPageProductList;
 
     await expect(productList).toBeVisible();
 });
 
 Then('I should see the inventory page product sort options', async function () {
-    inventoryPage = new InventoryPage(pageFixture.page);
+    if (!inventoryPage) {
+        inventoryPage = new InventoryPage(pageFixture.page);
+    }
     const sortOptions = inventoryPage.inventoryPageProductSortOptions;
 
     await expect(sortOptions).toBeVisible();
