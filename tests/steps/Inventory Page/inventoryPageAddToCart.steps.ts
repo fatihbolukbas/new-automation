@@ -1,4 +1,4 @@
-import { Then, Given } from '@cucumber/cucumber';
+import { Then} from '@cucumber/cucumber';
 import { expect } from '@playwright/test';
 import { pageFixture } from '../../../hooks/pageFixture';
 import { InventoryPage } from '../../pages/Inventory Page/inventoryPageLocators';
