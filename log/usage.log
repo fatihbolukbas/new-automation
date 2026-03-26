@@ -1,0 +1,1815 @@
+2026-03-26 15:31:54 - [32minfo[39m: Creating configuration file...
+2026-03-26 15:31:54 - [32minfo[39m: Adding new script(s) in package.json...
+2026-03-26 15:31:54 - [32minfo[39m: Setup completed
+2026-03-26 15:35:14 - [32minfo[39m: Reading configs from E:\Mülakat Hazırlık\new-automation\new-automation\browserstack.yml
+2026-03-26 15:35:14 - [32minfo[39m: Log Directory has been set to E:\Mülakat Hazırlık\new-automation\new-automation\log
+2026-03-26 15:35:14 - [32minfo[39m: Log Directory has been set to E:\Mülakat Hazırlık\new-automation\new-automation\log
+2026-03-26 15:35:14 - [32minfo[39m: Running SDK with args C:\Program Files\nodejs\node.exe E:\Mülakat Hazırlık\new-automation\new-automation\node_modules\browserstack-node-sdk\src\bin\runner.js cucumber-js --parallel 4
+2026-03-26 15:35:14 - [32minfo[39m: Running SDK with args C:\Program Files\nodejs\node.exe E:\Mülakat Hazırlık\new-automation\new-automation\node_modules\browserstack-node-sdk\src\bin\runner.js cucumber-js --parallel 4
+2026-03-26 15:35:14 - [32minfo[39m: SDK run started with id: 7ff5f577-f0c6-41cf-8a78-0929f9a9c133
+2026-03-26 15:35:22 - [32minfo[39m: Local binary started successfully
+2026-03-26 15:35:14 - [32minfo[39m: SDK run started with id: 7ff5f577-f0c6-41cf-8a78-0929f9a9c133
+2026-03-26 15:35:22 - [32minfo[39m: Local binary started successfully
+2026-03-26 15:35:23 - [32minfo[39m: [BrowserstackCLI] startMain: Starting main process
+2026-03-26 15:35:23 - [32minfo[39m: [BrowserstackCLI] startMain: Starting main process
+2026-03-26 15:35:23 - [32minfo[39m: [CLIUtils] Current CLI Path Found: 
+2026-03-26 15:35:23 - [32minfo[39m: [CLIUtils] Current CLI Path Found: 
+2026-03-26 15:35:25 - [32minfo[39m: [BrowserstackCLI] spawning command='C:\Users\fatih\.browserstack\cli\binary-win-x64.exe,sdk'
+2026-03-26 15:35:25 - [32minfo[39m: [BrowserstackCLI] spawning command='C:\Users\fatih\.browserstack\cli\binary-win-x64.exe,sdk'
+2026-03-26 15:35:27 - [32minfo[39m: [BrowserstackCLI] CLI params loaded: {"id":"943a38d1-5fa4-422b-abb0-fd7b9ba59975","listen":"127.0.0.1:5400","port":"5400"}
+2026-03-26 15:35:27 - [32minfo[39m: [BrowserstackCLI] CLI params loaded: {"id":"943a38d1-5fa4-422b-abb0-fd7b9ba59975","listen":"127.0.0.1:5400","port":"5400"}
+2026-03-26 15:35:27 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2026-03-26 15:35:27 - [32minfo[39m: [GrpcClient] Initialized gRPC client with bin session id: 943a38d1-5fa4-422b-abb0-fd7b9ba59975 and listen address: 127.0.0.1:5400
+2026-03-26 15:35:27 - [32minfo[39m: [GrpcClient] startBinSession: Calling startBinSession
+2026-03-26 15:35:27 - [32minfo[39m: [GrpcClient] setCliArgs: cliArgs=["cucumber-js","--parallel","4"], parsedConfig=[]
+2026-03-26 15:35:27 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2026-03-26 15:35:27 - [32minfo[39m: [GrpcClient] Initialized gRPC client with bin session id: 943a38d1-5fa4-422b-abb0-fd7b9ba59975 and listen address: 127.0.0.1:5400
+2026-03-26 15:35:27 - [32minfo[39m: [GrpcClient] startBinSession: Calling startBinSession
+2026-03-26 15:35:27 - [32minfo[39m: [GrpcClient] setCliArgs: cliArgs=["cucumber-js","--parallel","4"], parsedConfig=[]
+2026-03-26 15:35:33 - [32minfo[39m: [GrpcClient] StartBinSession successful
+2026-03-26 15:35:33 - [32minfo[39m: [GrpcClient] StartBinSession successful
+2026-03-26 15:35:33 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2026-03-26 15:35:33 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=943a38d1-5fa4-422b-abb0-fd7b9ba59975
+2026-03-26 15:35:33 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2026-03-26 15:35:33 - [32minfo[39m: [BrowserstackCLI] setCliArgs: cliArgs=["cucumber-js","--parallel","4"]
+2026-03-26 15:35:33 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2026-03-26 15:35:33 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2026-03-26 15:35:33 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=943a38d1-5fa4-422b-abb0-fd7b9ba59975
+2026-03-26 15:35:33 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: 943a38d1-5fa4-422b-abb0-fd7b9ba59975
+2026-03-26 15:35:33 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2026-03-26 15:35:33 - [32minfo[39m: [BrowserstackCLI] startChild: client and channel already exist, stopping here
+2026-03-26 15:35:33 - [32minfo[39m: [BrowserstackCLI] setCliArgs: cliArgs=["cucumber-js","--parallel","4"]
+2026-03-26 15:35:33 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2026-03-26 15:35:33 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: 943a38d1-5fa4-422b-abb0-fd7b9ba59975
+2026-03-26 15:35:33 - [32minfo[39m: [BrowserstackCLI] startChild: client and channel already exist, stopping here
+2026-03-26 15:35:36 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: 943a38d1-5fa4-422b-abb0-fd7b9ba59975
+2026-03-26 15:35:36 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: 943a38d1-5fa4-422b-abb0-fd7b9ba59975
+2026-03-26 15:35:36 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: 943a38d1-5fa4-422b-abb0-fd7b9ba59975
+2026-03-26 15:35:36 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2026-03-26 15:35:36 - [32minfo[39m: [GrpcClient] Connecting bin session
+2026-03-26 15:35:36 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2026-03-26 15:35:36 - [32minfo[39m: [GrpcClient] Connecting bin session
+2026-03-26 15:35:36 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2026-03-26 15:35:36 - [32minfo[39m: [GrpcClient] Connecting bin session
+2026-03-26 15:35:36 - [32minfo[39m: [GrpcClient] ConnectBinSession successful
+2026-03-26 15:35:36 - [32minfo[39m: [GrpcClient] ConnectBinSession successful
+2026-03-26 15:35:36 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2026-03-26 15:35:36 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=943a38d1-5fa4-422b-abb0-fd7b9ba59975
+2026-03-26 15:35:36 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2026-03-26 15:35:36 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2026-03-26 15:35:36 - [32minfo[39m: Setting up TestInfo directory at E:\Mülakat Hazırlık\new-automation\new-automation\log\.obs_test_details-default
+2026-03-26 15:35:36 - [32minfo[39m: [GrpcClient] ConnectBinSession successful
+2026-03-26 15:35:36 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2026-03-26 15:35:36 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=943a38d1-5fa4-422b-abb0-fd7b9ba59975
+2026-03-26 15:35:36 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2026-03-26 15:35:36 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2026-03-26 15:35:36 - [32minfo[39m: Setting up TestInfo directory at E:\Mülakat Hazırlık\new-automation\new-automation\log\.obs_test_details-default
+2026-03-26 15:35:36 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2026-03-26 15:35:36 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=943a38d1-5fa4-422b-abb0-fd7b9ba59975
+2026-03-26 15:35:36 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2026-03-26 15:35:36 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2026-03-26 15:35:36 - [32minfo[39m: Setting up TestInfo directory at E:\Mülakat Hazırlık\new-automation\new-automation\log\.obs_test_details-default
+2026-03-26 15:35:38 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: 943a38d1-5fa4-422b-abb0-fd7b9ba59975
+2026-03-26 15:35:38 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2026-03-26 15:35:38 - [32minfo[39m: [GrpcClient] Connecting bin session
+2026-03-26 15:35:38 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: 943a38d1-5fa4-422b-abb0-fd7b9ba59975
+2026-03-26 15:35:38 - [32minfo[39m: [GrpcClient] ConnectBinSession successful
+2026-03-26 15:35:38 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2026-03-26 15:35:38 - [32minfo[39m: [GrpcClient] Connecting bin session
+2026-03-26 15:35:38 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: 943a38d1-5fa4-422b-abb0-fd7b9ba59975
+2026-03-26 15:35:38 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2026-03-26 15:35:38 - [32minfo[39m: [GrpcClient] Connecting bin session
+2026-03-26 15:35:38 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2026-03-26 15:35:38 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=943a38d1-5fa4-422b-abb0-fd7b9ba59975
+2026-03-26 15:35:38 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2026-03-26 15:35:38 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2026-03-26 15:35:38 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: created instance for target=18056:0, state=AutomationFrameworkState.PLAYWRIGHT_DISPATCH
+2026-03-26 15:35:38 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: saved instance contextId=6e4736934b805661ebab0b2ff318f650d2cc388372f3ad07dd732b11c75598f1 target=18056:0
+2026-03-26 15:35:38 - [32minfo[39m: [GrpcClient] ConnectBinSession successful
+2026-03-26 15:35:38 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2026-03-26 15:35:38 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=943a38d1-5fa4-422b-abb0-fd7b9ba59975
+2026-03-26 15:35:38 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2026-03-26 15:35:38 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2026-03-26 15:35:38 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: created instance for target=21000:0, state=AutomationFrameworkState.PLAYWRIGHT_DISPATCH
+2026-03-26 15:35:38 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: saved instance contextId=3cf993d574f1af25fcb9aaed3e2eb47500abf5b043fc943e5af935a029a1ac73 target=21000:0
+2026-03-26 15:35:38 - [32minfo[39m: [GrpcClient] ConnectBinSession successful
+2026-03-26 15:35:38 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2026-03-26 15:35:38 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=943a38d1-5fa4-422b-abb0-fd7b9ba59975
+2026-03-26 15:35:38 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2026-03-26 15:35:38 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2026-03-26 15:35:46 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:35:46 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:35:46 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:35:46 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:35:46 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:35:47 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: created instance for target=9996:0, state=AutomationFrameworkState.PLAYWRIGHT_DISPATCH
+2026-03-26 15:35:47 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: saved instance contextId=42e13183769a35d6bedf6b8f84548bf4be482164a5e1955514725758724cce05 target=9996:0
+2026-03-26 15:35:47 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:35:47 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:35:47 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:35:48 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:35:48 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:35:48 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:35:48 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:35:48 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:35:57 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:35:57 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:35:57 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:35:57 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:35:57 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:35:58 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:35:58 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:35:58 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:35:58 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:35:58 - [32minfo[39m: [GrpcClient] Sending DriverInit
+2026-03-26 15:35:58 - [32minfo[39m: [GrpcClient] DriverInit request successful
+2026-03-26 15:35:58 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:35:58 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:35:58 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:35:58 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:35:58 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:35:59 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:35:59 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:35:59 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:35:59 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:35:59 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:35:59 - [32minfo[39m: [GrpcClient] Sending DriverInit
+2026-03-26 15:35:59 - [32minfo[39m: [GrpcClient] DriverInit request successful
+2026-03-26 15:36:00 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:00 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:00 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:36:00 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:36:00 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:36:04 - [32minfo[39m: [PlaywrightDriverModule] testId: b4e50aff-6c70-4722-bd72-0bfe2e9225c5
+2026-03-26 15:36:04 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: 'b5f1113a-1811-48cc-9152-b68cef44c510',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: 'b5f1113a-1811-48cc-9152-b68cef44c510',
+  test_result: 'pending',
+  automate_session_name: 'Add to Cart Feature',
+  test_file_path: 'tests\\feature\\Inventory Page\\inventoryPageAddToCart.feature',
+  test_id: 'b4e50aff-6c70-4722-bd72-0bfe2e9225c5',
+  test_name: 'Add to Cart Feature',
+  test_location: 'tests\\feature\\Inventory Page\\inventoryPageAddToCart.feature',
+  test_code: null,
+  test_tags: [ '@AddToCart' ],
+  test_started_at: '2026-03-26T12:35:46.513Z',
+  test_scope: 'Inventory Page Add to Cart Feature',
+  test_scopes: [ 'Inventory Page Add to Cart Feature' ],
+  test_rerun_name: 'Add to Cart Feature',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Inventory Page\\inventoryPageAddToCart.feature',
+      name: 'Inventory Page Add to Cart Feature',
+      description: ''
+    },
+    scenario: { name: 'Add to Cart Feature' }
+  }
+}
+2026-03-26 15:36:04 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:36:04 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:36:06 - [32minfo[39m: [PlaywrightDriverModule] testId: 3ef3a89b-2a4d-45c4-8518-39d4096a0231
+2026-03-26 15:36:06 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: '2de64ca6-7986-41f0-aa88-d977c6c5f60d',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: '2de64ca6-7986-41f0-aa88-d977c6c5f60d',
+  test_result: 'pending',
+  automate_session_name: 'Add to Cart Feature',
+  test_file_path: 'tests\\feature\\Inventory Page\\inventoryPageAddToCart.feature',
+  test_id: '3ef3a89b-2a4d-45c4-8518-39d4096a0231',
+  test_name: 'Add to Cart Feature',
+  test_location: 'tests\\feature\\Inventory Page\\inventoryPageAddToCart.feature',
+  test_code: null,
+  test_tags: [ '@AddToCart' ],
+  test_started_at: '2026-03-26T12:35:47.689Z',
+  test_scope: 'Inventory Page Add to Cart Feature',
+  test_scopes: [ 'Inventory Page Add to Cart Feature' ],
+  test_rerun_name: 'Add to Cart Feature',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Inventory Page\\inventoryPageAddToCart.feature',
+      name: 'Inventory Page Add to Cart Feature',
+      description: ''
+    },
+    scenario: { name: 'Add to Cart Feature' }
+  }
+}
+2026-03-26 15:36:06 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:36:06 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:36:08 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:36:08 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:36:08 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:08 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:36:08 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:36:10 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:36:10 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:36:10 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:36:10 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:36:11 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:11 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:12 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:12 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:12 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:36:12 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:36:13 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:36:13 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:14 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:14 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:36:14 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:36:14 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:36:18 - [32minfo[39m: [PlaywrightDriverModule] testId: 1697ebb2-8d44-4cc0-8c07-c6db8965f25d
+2026-03-26 15:36:18 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: '9a6a76cf-6997-491f-a709-3c059ee7165f',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: '9a6a76cf-6997-491f-a709-3c059ee7165f',
+  test_result: 'pending',
+  automate_session_name: 'Add to Cart Feature',
+  test_file_path: 'tests\\feature\\Inventory Page\\inventoryPageAddToCart.feature',
+  test_id: '1697ebb2-8d44-4cc0-8c07-c6db8965f25d',
+  test_name: 'Add to Cart Feature',
+  test_location: 'tests\\feature\\Inventory Page\\inventoryPageAddToCart.feature',
+  test_code: null,
+  test_tags: [ '@AddToCart' ],
+  test_started_at: '2026-03-26T12:35:48.790Z',
+  test_scope: 'Inventory Page Add to Cart Feature',
+  test_scopes: [ 'Inventory Page Add to Cart Feature' ],
+  test_rerun_name: 'Add to Cart Feature',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Inventory Page\\inventoryPageAddToCart.feature',
+      name: 'Inventory Page Add to Cart Feature',
+      description: ''
+    },
+    scenario: { name: 'Add to Cart Feature' }
+  }
+}
+2026-03-26 15:36:18 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:36:18 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:36:20 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:20 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:21 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:22 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:22 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:36:22 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:36:22 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:36:22 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:36:22 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:36:22 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:36:22 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:36:22 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:23 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:24 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:24 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:36:24 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:36:24 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:36:27 - [32minfo[39m: [PlaywrightDriverModule] testId: 1540f1ee-3f58-44d7-b69a-3504cd2e993f
+2026-03-26 15:36:27 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: '434c77d1-7fd3-4b34-b7a0-9075fa599502',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: '434c77d1-7fd3-4b34-b7a0-9075fa599502',
+  test_result: 'pending',
+  automate_session_name: 'Verify Inventory Page Elements',
+  test_file_path: 'tests\\feature\\Inventory Page\\inventoryPageElementVerfication.feature',
+  test_id: '1540f1ee-3f58-44d7-b69a-3504cd2e993f',
+  test_name: 'Verify Inventory Page Elements',
+  test_location: 'tests\\feature\\Inventory Page\\inventoryPageElementVerfication.feature',
+  test_code: null,
+  test_tags: [ '@InventoryPageElementVerfication' ],
+  test_started_at: '2026-03-26T12:36:10.285Z',
+  test_scope: 'Inventory Page Element Verfication',
+  test_scopes: [ 'Inventory Page Element Verfication' ],
+  test_rerun_name: 'Verify Inventory Page Elements',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Inventory Page\\inventoryPageElementVerfication.feature',
+      name: 'Inventory Page Element Verfication',
+      description: ''
+    },
+    scenario: { name: 'Verify Inventory Page Elements' }
+  }
+}
+2026-03-26 15:36:27 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:36:27 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:36:28 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:28 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:28 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:30 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:30 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:36:30 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:36:30 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:36:30 - [32minfo[39m: [GrpcClient] Sending DriverInit
+2026-03-26 15:36:30 - [32minfo[39m: [GrpcClient] DriverInit request successful
+2026-03-26 15:36:30 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:30 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:30 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:36:30 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:36:31 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:36:31 - [32minfo[39m: [GrpcClient] Sending DriverInit
+2026-03-26 15:36:31 - [32minfo[39m: [GrpcClient] DriverInit request successful
+2026-03-26 15:36:31 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:36:31 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:36:31 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:36:31 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:36:36 - [32minfo[39m: [PlaywrightDriverModule] testId: b2bf9f6a-bfbc-4817-be67-da7ee92f7581
+2026-03-26 15:36:36 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: '68ab5566-d3d3-4437-bcd5-0760fbd74d64',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: '68ab5566-d3d3-4437-bcd5-0760fbd74d64',
+  test_result: 'pending',
+  automate_session_name: 'Verify Inventory Page Elements',
+  test_file_path: 'tests\\feature\\Inventory Page\\inventoryPageElementVerfication.feature',
+  test_id: 'b2bf9f6a-bfbc-4817-be67-da7ee92f7581',
+  test_name: 'Verify Inventory Page Elements',
+  test_location: 'tests\\feature\\Inventory Page\\inventoryPageElementVerfication.feature',
+  test_code: null,
+  test_tags: [ '@InventoryPageElementVerfication' ],
+  test_started_at: '2026-03-26T12:36:08.504Z',
+  test_scope: 'Inventory Page Element Verfication',
+  test_scopes: [ 'Inventory Page Element Verfication' ],
+  test_rerun_name: 'Verify Inventory Page Elements',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Inventory Page\\inventoryPageElementVerfication.feature',
+      name: 'Inventory Page Element Verfication',
+      description: ''
+    },
+    scenario: { name: 'Verify Inventory Page Elements' }
+  }
+}
+2026-03-26 15:36:36 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:36:36 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:36:40 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:36:40 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:36:40 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:36:40 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:36:40 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:40 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:40 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:42 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:42 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:42 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:36:42 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:36:42 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:36:44 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:44 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:44 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:36:44 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:36:44 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:36:45 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:45 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:45 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:46 - [32minfo[39m: [PlaywrightDriverModule] testId: 6bbf8c7e-fab3-402f-bdfa-fc113c0239a3
+2026-03-26 15:36:46 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: 'ece2c6b3-8718-41a3-8d51-bd3932f5da35',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: 'ece2c6b3-8718-41a3-8d51-bd3932f5da35',
+  test_result: 'pending',
+  automate_session_name: 'Verify Landing Page Title',
+  test_file_path: 'tests\\feature\\Landing Page\\landingPage.feature',
+  test_id: '6bbf8c7e-fab3-402f-bdfa-fc113c0239a3',
+  test_name: 'Verify Landing Page Title',
+  test_location: 'tests\\feature\\Landing Page\\landingPage.feature',
+  test_code: null,
+  test_tags: [ '@LandingPage' ],
+  test_started_at: '2026-03-26T12:36:31.894Z',
+  test_scope: 'Landing Page',
+  test_scopes: [ 'Landing Page' ],
+  test_rerun_name: 'Verify Landing Page Title',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Landing Page\\landingPage.feature',
+      name: 'Landing Page',
+      description: ''
+    },
+    scenario: { name: 'Verify Landing Page Title' }
+  }
+}
+2026-03-26 15:36:46 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:36:46 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:36:46 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:46 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:36:46 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:36:46 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:36:47 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:48 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:48 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:36:48 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:36:48 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:36:50 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:36:50 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:36:50 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:36:50 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:36:52 - [32minfo[39m: [PlaywrightDriverModule] testId: 775a36f2-9b91-4715-92dc-6613a0354576
+2026-03-26 15:36:52 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: 'd6c65f88-d179-4f01-9163-810797ec8c67',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: 'd6c65f88-d179-4f01-9163-810797ec8c67',
+  test_result: 'pending',
+  automate_session_name: 'Verify Inventory Page Elements',
+  test_file_path: 'tests\\feature\\Inventory Page\\inventoryPageElementVerfication.feature',
+  test_id: '775a36f2-9b91-4715-92dc-6613a0354576',
+  test_name: 'Verify Inventory Page Elements',
+  test_location: 'tests\\feature\\Inventory Page\\inventoryPageElementVerfication.feature',
+  test_code: null,
+  test_tags: [ '@InventoryPageElementVerfication' ],
+  test_started_at: '2026-03-26T12:36:22.822Z',
+  test_scope: 'Inventory Page Element Verfication',
+  test_scopes: [ 'Inventory Page Element Verfication' ],
+  test_rerun_name: 'Verify Inventory Page Elements',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Inventory Page\\inventoryPageElementVerfication.feature',
+      name: 'Inventory Page Element Verfication',
+      description: ''
+    },
+    scenario: { name: 'Verify Inventory Page Elements' }
+  }
+}
+2026-03-26 15:36:52 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:36:52 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:36:56 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:36:56 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:36:56 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:36:56 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:36:56 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:59 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:59 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:36:59 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:00 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:00 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:37:00 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:37:00 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:37:00 - [32minfo[39m: [GrpcClient] Sending DriverInit
+2026-03-26 15:37:00 - [32minfo[39m: [GrpcClient] DriverInit request successful
+2026-03-26 15:37:00 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:00 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:00 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:01 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:01 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:37:01 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:37:01 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:37:01 - [32minfo[39m: [GrpcClient] Sending DriverInit
+2026-03-26 15:37:01 - [32minfo[39m: [GrpcClient] DriverInit request successful
+2026-03-26 15:37:02 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:02 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:02 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:37:02 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:37:02 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:37:04 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:04 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:04 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:37:04 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:37:04 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:37:06 - [32minfo[39m: [PlaywrightDriverModule] testId: 7d44b6f1-03b8-4694-bb65-89aea76ad47d
+2026-03-26 15:37:06 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: 'bc6b82f4-f929-421e-9801-accc11dee2a2',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: 'bc6b82f4-f929-421e-9801-accc11dee2a2',
+  test_result: 'pending',
+  automate_session_name: 'Verify Landing Page Title',
+  test_file_path: 'tests\\feature\\Landing Page\\landingPage.feature',
+  test_id: '7d44b6f1-03b8-4694-bb65-89aea76ad47d',
+  test_name: 'Verify Landing Page Title',
+  test_location: 'tests\\feature\\Landing Page\\landingPage.feature',
+  test_code: null,
+  test_tags: [ '@LandingPage' ],
+  test_started_at: '2026-03-26T12:36:40.516Z',
+  test_scope: 'Landing Page',
+  test_scopes: [ 'Landing Page' ],
+  test_rerun_name: 'Verify Landing Page Title',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Landing Page\\landingPage.feature',
+      name: 'Landing Page',
+      description: ''
+    },
+    scenario: { name: 'Verify Landing Page Title' }
+  }
+}
+2026-03-26 15:37:06 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:37:06 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:37:07 - [32minfo[39m: [PlaywrightDriverModule] testId: bcf52d5c-d522-44d2-bda7-d17b3f1f5feb
+2026-03-26 15:37:08 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: 'fe9ee12d-2ea3-4db8-a360-72580f5ac650',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: 'fe9ee12d-2ea3-4db8-a360-72580f5ac650',
+  test_result: 'pending',
+  automate_session_name: 'Verify Invalid Login with Incorrect Credentials',
+  test_file_path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_id: 'bcf52d5c-d522-44d2-bda7-d17b3f1f5feb',
+  test_name: 'Verify Invalid Login with Incorrect Credentials',
+  test_location: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_code: null,
+  test_tags: [ '@LandingPageInvalidLogin' ],
+  test_started_at: '2026-03-26T12:36:50.632Z',
+  test_scope: 'Landing Page Invalid Login',
+  test_scopes: [ 'Landing Page Invalid Login' ],
+  test_rerun_name: 'Verify Invalid Login with Incorrect Credentials',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+      name: 'Landing Page Invalid Login',
+      description: ''
+    },
+    scenario: { name: 'Verify Invalid Login with Incorrect Credentials' }
+  }
+}
+2026-03-26 15:37:08 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:37:08 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:37:10 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:37:10 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:10 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:37:10 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:37:10 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:37:11 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:37:11 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:37:11 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:37:11 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:37:13 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:13 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:13 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:14 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:14 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:37:14 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:37:14 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:37:14 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:15 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:15 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:37:15 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:37:15 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:37:18 - [32minfo[39m: [PlaywrightDriverModule] testId: c97f5f84-b463-4965-9462-a83d1c212200
+2026-03-26 15:37:18 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: '8bfb4d81-7799-4b44-963b-cf1b83e006be',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: '8bfb4d81-7799-4b44-963b-cf1b83e006be',
+  test_result: 'pending',
+  automate_session_name: 'Verify Landing Page Title',
+  test_file_path: 'tests\\feature\\Landing Page\\landingPage.feature',
+  test_id: 'c97f5f84-b463-4965-9462-a83d1c212200',
+  test_name: 'Verify Landing Page Title',
+  test_location: 'tests\\feature\\Landing Page\\landingPage.feature',
+  test_code: null,
+  test_tags: [ '@LandingPage' ],
+  test_started_at: '2026-03-26T12:36:56.438Z',
+  test_scope: 'Landing Page',
+  test_scopes: [ 'Landing Page' ],
+  test_rerun_name: 'Verify Landing Page Title',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Landing Page\\landingPage.feature',
+      name: 'Landing Page',
+      description: ''
+    },
+    scenario: { name: 'Verify Landing Page Title' }
+  }
+}
+2026-03-26 15:37:18 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:37:18 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:37:20 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:20 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:22 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:37:22 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:22 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:37:22 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:37:22 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:37:22 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:22 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:22 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:37:22 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:37:22 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:37:24 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:24 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:24 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:24 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:24 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:24 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:37:24 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:37:24 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:37:24 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:24 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:37:24 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:37:24 - [32minfo[39m: [GrpcClient] Sending DriverInit
+2026-03-26 15:37:24 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:37:24 - [32minfo[39m: [GrpcClient] DriverInit request successful
+2026-03-26 15:37:24 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:25 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:25 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:37:25 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:37:25 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:37:25 - [32minfo[39m: [GrpcClient] Sending DriverInit
+2026-03-26 15:37:25 - [32minfo[39m: [GrpcClient] DriverInit request successful
+2026-03-26 15:37:27 - [32minfo[39m: [PlaywrightDriverModule] testId: f679e450-f903-4487-9e56-5d20d67853bc
+2026-03-26 15:37:27 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: 'f33630c5-2a7f-45bf-8c23-f90ffdcbbefe',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: 'f33630c5-2a7f-45bf-8c23-f90ffdcbbefe',
+  test_result: 'pending',
+  automate_session_name: 'Verify Invalid Login with Incorrect Username',
+  test_file_path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_id: 'f679e450-f903-4487-9e56-5d20d67853bc',
+  test_name: 'Verify Invalid Login with Incorrect Username',
+  test_location: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_code: null,
+  test_tags: [ '@LandingPageInvalidLogin' ],
+  test_started_at: '2026-03-26T12:37:11.961Z',
+  test_scope: 'Landing Page Invalid Login',
+  test_scopes: [ 'Landing Page Invalid Login' ],
+  test_rerun_name: 'Verify Invalid Login with Incorrect Username',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+      name: 'Landing Page Invalid Login',
+      description: ''
+    },
+    scenario: { name: 'Verify Invalid Login with Incorrect Username' }
+  }
+}
+2026-03-26 15:37:27 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:37:27 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:37:30 - [32minfo[39m: [PlaywrightDriverModule] testId: 0eb33e8a-6c94-4f7e-be8b-9570b5764a9f
+2026-03-26 15:37:30 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: 'c9b0a80b-dba2-4aed-8abe-dd018bf5cfc7',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: 'c9b0a80b-dba2-4aed-8abe-dd018bf5cfc7',
+  test_result: 'pending',
+  automate_session_name: 'Verify Invalid Login with Incorrect Credentials',
+  test_file_path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_id: '0eb33e8a-6c94-4f7e-be8b-9570b5764a9f',
+  test_name: 'Verify Invalid Login with Incorrect Credentials',
+  test_location: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_code: null,
+  test_tags: [ '@LandingPageInvalidLogin' ],
+  test_started_at: '2026-03-26T12:37:10.355Z',
+  test_scope: 'Landing Page Invalid Login',
+  test_scopes: [ 'Landing Page Invalid Login' ],
+  test_rerun_name: 'Verify Invalid Login with Incorrect Credentials',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+      name: 'Landing Page Invalid Login',
+      description: ''
+    },
+    scenario: { name: 'Verify Invalid Login with Incorrect Credentials' }
+  }
+}
+2026-03-26 15:37:30 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:37:30 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:37:33 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:37:33 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:37:33 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:37:33 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:37:34 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:37:34 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:37:34 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:37:34 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:34 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:37:41 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:41 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:42 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:43 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:43 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:37:43 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:37:43 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:37:43 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:43 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:43 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:44 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:44 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:37:44 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:37:44 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:37:44 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:45 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:45 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:37:45 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:37:45 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:37:46 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:46 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:46 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:37:46 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:37:47 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:37:47 - [32minfo[39m: [PlaywrightDriverModule] testId: 8f9c18ea-b562-46c7-8c86-49ee94ebbdba
+2026-03-26 15:37:47 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: 'ab8eaf4b-9ce9-4cf1-bee5-b67cc08ca0ed',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: 'ab8eaf4b-9ce9-4cf1-bee5-b67cc08ca0ed',
+  test_result: 'pending',
+  automate_session_name: 'Verify Invalid Login with Incorrect Credentials',
+  test_file_path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_id: '8f9c18ea-b562-46c7-8c86-49ee94ebbdba',
+  test_name: 'Verify Invalid Login with Incorrect Credentials',
+  test_location: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_code: null,
+  test_tags: [ '@LandingPageInvalidLogin' ],
+  test_started_at: '2026-03-26T12:37:22.184Z',
+  test_scope: 'Landing Page Invalid Login',
+  test_scopes: [ 'Landing Page Invalid Login' ],
+  test_rerun_name: 'Verify Invalid Login with Incorrect Credentials',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+      name: 'Landing Page Invalid Login',
+      description: ''
+    },
+    scenario: { name: 'Verify Invalid Login with Incorrect Credentials' }
+  }
+}
+2026-03-26 15:37:47 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:37:47 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:37:49 - [32minfo[39m: [PlaywrightDriverModule] testId: 5291a5a9-882e-4667-9e5e-aa3303a037dd
+2026-03-26 15:37:49 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: '6e8484a8-da89-41c3-9754-c57bd6e854f1',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: '6e8484a8-da89-41c3-9754-c57bd6e854f1',
+  test_result: 'pending',
+  automate_session_name: 'Verify Invalid Login with Incorrect Password',
+  test_file_path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_id: '5291a5a9-882e-4667-9e5e-aa3303a037dd',
+  test_name: 'Verify Invalid Login with Incorrect Password',
+  test_location: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_code: null,
+  test_tags: [ '@LandingPageInvalidLogin' ],
+  test_started_at: '2026-03-26T12:37:33.205Z',
+  test_scope: 'Landing Page Invalid Login',
+  test_scopes: [ 'Landing Page Invalid Login' ],
+  test_rerun_name: 'Verify Invalid Login with Incorrect Password',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+      name: 'Landing Page Invalid Login',
+      description: ''
+    },
+    scenario: { name: 'Verify Invalid Login with Incorrect Password' }
+  }
+}
+2026-03-26 15:37:49 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:37:49 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:37:51 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:37:51 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:51 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:37:51 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:37:51 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:37:53 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:53 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:53 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:53 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:37:53 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:37:53 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:37:53 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:37:54 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:54 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:37:54 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:37:54 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:37:54 - [32minfo[39m: [GrpcClient] Sending DriverInit
+2026-03-26 15:37:54 - [32minfo[39m: [GrpcClient] DriverInit request successful
+2026-03-26 15:37:54 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:54 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:37:54 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:37:54 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:37:54 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:37:55 - [32minfo[39m: [GrpcClient] Sending DriverInit
+2026-03-26 15:37:55 - [32minfo[39m: [GrpcClient] DriverInit request successful
+2026-03-26 15:38:00 - [32minfo[39m: [PlaywrightDriverModule] testId: 3510a70d-fb44-4657-9748-583edf615a77
+2026-03-26 15:38:00 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: '6837300d-5bf2-4cca-b129-6483b13a2358',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: '6837300d-5bf2-4cca-b129-6483b13a2358',
+  test_result: 'pending',
+  automate_session_name: 'Verify Invalid Login with Incorrect Username',
+  test_file_path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_id: '3510a70d-fb44-4657-9748-583edf615a77',
+  test_name: 'Verify Invalid Login with Incorrect Username',
+  test_location: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_code: null,
+  test_tags: [ '@LandingPageInvalidLogin' ],
+  test_started_at: '2026-03-26T12:37:34.008Z',
+  test_scope: 'Landing Page Invalid Login',
+  test_scopes: [ 'Landing Page Invalid Login' ],
+  test_rerun_name: 'Verify Invalid Login with Incorrect Username',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+      name: 'Landing Page Invalid Login',
+      description: ''
+    },
+    scenario: { name: 'Verify Invalid Login with Incorrect Username' }
+  }
+}
+2026-03-26 15:38:00 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:38:00 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:38:03 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:03 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:03 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:38:03 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:38:03 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:38:03 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:03 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:38:04 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:04 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:04 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:38:04 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:38:04 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:38:06 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:06 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:06 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:38:06 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:38:06 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:38:09 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:09 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:09 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:09 - [32minfo[39m: [PlaywrightDriverModule] testId: 46a56435-4b39-4f8d-9f86-0b85e17dcbee
+2026-03-26 15:38:09 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: '899897b2-a457-4ac6-b837-6a56b8a12a8c',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: '899897b2-a457-4ac6-b837-6a56b8a12a8c',
+  test_result: 'pending',
+  automate_session_name: 'Verify Invalid Login with Empty Fields',
+  test_file_path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_id: '46a56435-4b39-4f8d-9f86-0b85e17dcbee',
+  test_name: 'Verify Invalid Login with Empty Fields',
+  test_location: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_code: null,
+  test_tags: [ '@LandingPageInvalidLogin' ],
+  test_started_at: '2026-03-26T12:37:53.845Z',
+  test_scope: 'Landing Page Invalid Login',
+  test_scopes: [ 'Landing Page Invalid Login' ],
+  test_rerun_name: 'Verify Invalid Login with Empty Fields',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+      name: 'Landing Page Invalid Login',
+      description: ''
+    },
+    scenario: { name: 'Verify Invalid Login with Empty Fields' }
+  }
+}
+2026-03-26 15:38:09 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:38:09 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:38:10 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:10 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:38:10 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:38:10 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:38:10 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:11 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:11 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:38:11 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:38:11 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:38:13 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:38:13 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:38:13 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:38:13 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:38:14 - [32minfo[39m: [PlaywrightDriverModule] testId: a3aae0e6-d1ee-4eb3-bf33-55f4ecbde219
+2026-03-26 15:38:14 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: '2ddce8a6-2399-48ca-a16c-cf3f5faf5972',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: '2ddce8a6-2399-48ca-a16c-cf3f5faf5972',
+  test_result: 'pending',
+  automate_session_name: 'Verify Invalid Login with Incorrect Username',
+  test_file_path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_id: 'a3aae0e6-d1ee-4eb3-bf33-55f4ecbde219',
+  test_name: 'Verify Invalid Login with Incorrect Username',
+  test_location: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_code: null,
+  test_tags: [ '@LandingPageInvalidLogin' ],
+  test_started_at: '2026-03-26T12:37:51.546Z',
+  test_scope: 'Landing Page Invalid Login',
+  test_scopes: [ 'Landing Page Invalid Login' ],
+  test_rerun_name: 'Verify Invalid Login with Incorrect Username',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+      name: 'Landing Page Invalid Login',
+      description: ''
+    },
+    scenario: { name: 'Verify Invalid Login with Incorrect Username' }
+  }
+}
+2026-03-26 15:38:14 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:38:14 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:38:18 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:38:18 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:38:18 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:38:18 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:38:18 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:23 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:23 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:23 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:23 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:23 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:38:23 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:38:23 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:38:24 - [32minfo[39m: [GrpcClient] Sending DriverInit
+2026-03-26 15:38:24 - [32minfo[39m: [GrpcClient] DriverInit request successful
+2026-03-26 15:38:24 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:24 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:24 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:38:24 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:38:24 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:38:24 - [32minfo[39m: [GrpcClient] Sending DriverInit
+2026-03-26 15:38:24 - [32minfo[39m: [GrpcClient] DriverInit request successful
+2026-03-26 15:38:29 - [32minfo[39m: [PlaywrightDriverModule] testId: 4ab0074e-c722-48e9-a262-b691a81d0fc1
+2026-03-26 15:38:29 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: 'c40abd08-e2f9-43f9-ade9-65459eb55786',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: 'c40abd08-e2f9-43f9-ade9-65459eb55786',
+  test_result: 'pending',
+  automate_session_name: 'Verify Invalid Login with Incorrect Password',
+  test_file_path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_id: '4ab0074e-c722-48e9-a262-b691a81d0fc1',
+  test_name: 'Verify Invalid Login with Incorrect Password',
+  test_location: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_code: null,
+  test_tags: [ '@LandingPageInvalidLogin' ],
+  test_started_at: '2026-03-26T12:38:03.938Z',
+  test_scope: 'Landing Page Invalid Login',
+  test_scopes: [ 'Landing Page Invalid Login' ],
+  test_rerun_name: 'Verify Invalid Login with Incorrect Password',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+      name: 'Landing Page Invalid Login',
+      description: ''
+    },
+    scenario: { name: 'Verify Invalid Login with Incorrect Password' }
+  }
+}
+2026-03-26 15:38:29 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:38:29 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:38:30 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:30 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:31 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:31 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:31 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:38:31 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:38:31 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:38:33 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:33 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:38:33 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:33 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:38:33 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:38:33 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:38:33 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:33 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:38:33 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:38:33 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:38:36 - [32minfo[39m: [PlaywrightDriverModule] testId: a9cbe4ca-a500-4355-8294-2d1c55756250
+2026-03-26 15:38:36 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: 'c8c808c9-c827-4397-9884-331ed340254d',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: 'c8c808c9-c827-4397-9884-331ed340254d',
+  test_result: 'pending',
+  automate_session_name: 'Verify Invalid Login with Empty Username',
+  test_file_path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_id: 'a9cbe4ca-a500-4355-8294-2d1c55756250',
+  test_name: 'Verify Invalid Login with Empty Username',
+  test_location: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_code: null,
+  test_tags: [ '@LandingPageInvalidLogin' ],
+  test_started_at: '2026-03-26T12:38:13.340Z',
+  test_scope: 'Landing Page Invalid Login',
+  test_scopes: [ 'Landing Page Invalid Login' ],
+  test_rerun_name: 'Verify Invalid Login with Empty Username',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+      name: 'Landing Page Invalid Login',
+      description: ''
+    },
+    scenario: { name: 'Verify Invalid Login with Empty Username' }
+  }
+}
+2026-03-26 15:38:36 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:38:36 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:38:36 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:36 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:36 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:37 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:37 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:38:37 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:38:37 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:38:38 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:38 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:38 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:38:38 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:38:38 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:38:40 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:38:40 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:38:40 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:38:40 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:38:42 - [32minfo[39m: [PlaywrightDriverModule] testId: fa169f0e-a9ae-4f6c-ba61-c3a9ce12ba96
+2026-03-26 15:38:42 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: 'e072c914-9e22-4986-b06c-748a80e7a8ea',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: 'e072c914-9e22-4986-b06c-748a80e7a8ea',
+  test_result: 'pending',
+  automate_session_name: 'Verify Invalid Login with Incorrect Password',
+  test_file_path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_id: 'fa169f0e-a9ae-4f6c-ba61-c3a9ce12ba96',
+  test_name: 'Verify Invalid Login with Incorrect Password',
+  test_location: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_code: null,
+  test_tags: [ '@LandingPageInvalidLogin' ],
+  test_started_at: '2026-03-26T12:38:18.793Z',
+  test_scope: 'Landing Page Invalid Login',
+  test_scopes: [ 'Landing Page Invalid Login' ],
+  test_rerun_name: 'Verify Invalid Login with Incorrect Password',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+      name: 'Landing Page Invalid Login',
+      description: ''
+    },
+    scenario: { name: 'Verify Invalid Login with Incorrect Password' }
+  }
+}
+2026-03-26 15:38:42 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:38:42 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:38:46 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:38:46 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:38:46 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:38:46 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:46 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:38:50 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:50 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:50 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:50 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:50 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:51 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:51 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:38:51 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:38:51 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:38:51 - [32minfo[39m: [GrpcClient] Sending DriverInit
+2026-03-26 15:38:51 - [32minfo[39m: [GrpcClient] DriverInit request successful
+2026-03-26 15:38:51 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:52 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:52 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:52 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:38:52 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:38:52 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:38:52 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:52 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:38:52 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:38:52 - [32minfo[39m: [GrpcClient] Sending DriverInit
+2026-03-26 15:38:52 - [32minfo[39m: [GrpcClient] DriverInit request successful
+2026-03-26 15:38:52 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:38:54 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:54 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:38:54 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:38:54 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:38:54 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:38:57 - [32minfo[39m: [PlaywrightDriverModule] testId: 14611fb1-a166-417c-945e-a35d69582c59
+2026-03-26 15:38:57 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: 'c72c5f46-bd1b-4023-b4ed-317a561b5be7',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: 'c72c5f46-bd1b-4023-b4ed-317a561b5be7',
+  test_result: 'pending',
+  automate_session_name: 'Verify Invalid Login with Empty Fields',
+  test_file_path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_id: '14611fb1-a166-417c-945e-a35d69582c59',
+  test_name: 'Verify Invalid Login with Empty Fields',
+  test_location: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_code: null,
+  test_tags: [ '@LandingPageInvalidLogin' ],
+  test_started_at: '2026-03-26T12:38:33.546Z',
+  test_scope: 'Landing Page Invalid Login',
+  test_scopes: [ 'Landing Page Invalid Login' ],
+  test_rerun_name: 'Verify Invalid Login with Empty Fields',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+      name: 'Landing Page Invalid Login',
+      description: ''
+    },
+    scenario: { name: 'Verify Invalid Login with Empty Fields' }
+  }
+}
+2026-03-26 15:38:57 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:38:57 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:38:57 - [32minfo[39m: [PlaywrightDriverModule] testId: 993fc171-119e-4ad2-ae12-326b59645316
+2026-03-26 15:38:57 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: '2ef077ee-209d-403b-8969-f5dc67bf2f33',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: '2ef077ee-209d-403b-8969-f5dc67bf2f33',
+  test_result: 'pending',
+  automate_session_name: 'Verify Invalid Login with Empty Password',
+  test_file_path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_id: '993fc171-119e-4ad2-ae12-326b59645316',
+  test_name: 'Verify Invalid Login with Empty Password',
+  test_location: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_code: null,
+  test_tags: [ '@LandingPageInvalidLogin' ],
+  test_started_at: '2026-03-26T12:38:40.533Z',
+  test_scope: 'Landing Page Invalid Login',
+  test_scopes: [ 'Landing Page Invalid Login' ],
+  test_rerun_name: 'Verify Invalid Login with Empty Password',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+      name: 'Landing Page Invalid Login',
+      description: ''
+    },
+    scenario: { name: 'Verify Invalid Login with Empty Password' }
+  }
+}
+2026-03-26 15:38:57 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:38:57 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:39:00 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:39:00 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:00 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:39:00 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:39:00 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:39:01 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:39:01 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:39:01 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:39:01 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:39:03 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:03 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:03 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:04 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:04 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:39:04 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:39:04 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:39:05 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:05 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:05 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:39:05 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:39:05 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:39:08 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:08 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:08 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:08 - [32minfo[39m: [PlaywrightDriverModule] testId: 8116253a-93bc-47a5-b990-2aabc3255149
+2026-03-26 15:39:08 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: '89948faf-34eb-4f37-80ca-3d49ad84b7ed',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: '89948faf-34eb-4f37-80ca-3d49ad84b7ed',
+  test_result: 'pending',
+  automate_session_name: 'Verify Invalid Login with Empty Fields',
+  test_file_path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_id: '8116253a-93bc-47a5-b990-2aabc3255149',
+  test_name: 'Verify Invalid Login with Empty Fields',
+  test_location: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_code: null,
+  test_tags: [ '@LandingPageInvalidLogin' ],
+  test_started_at: '2026-03-26T12:38:46.215Z',
+  test_scope: 'Landing Page Invalid Login',
+  test_scopes: [ 'Landing Page Invalid Login' ],
+  test_rerun_name: 'Verify Invalid Login with Empty Fields',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+      name: 'Landing Page Invalid Login',
+      description: ''
+    },
+    scenario: { name: 'Verify Invalid Login with Empty Fields' }
+  }
+}
+2026-03-26 15:39:08 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:39:08 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:39:08 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:08 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:39:08 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:39:08 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:39:09 - [32minfo[39m: [GrpcClient] Sending DriverInit
+2026-03-26 15:39:09 - [32minfo[39m: [GrpcClient] DriverInit request successful
+2026-03-26 15:39:09 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:09 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:09 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:39:09 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:39:09 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:39:10 - [32minfo[39m: [GrpcClient] Sending DriverInit
+2026-03-26 15:39:10 - [32minfo[39m: [GrpcClient] DriverInit request successful
+2026-03-26 15:39:12 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:39:12 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:39:12 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:39:12 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:12 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:39:15 - [32minfo[39m: [PlaywrightDriverModule] testId: 7b14b7ad-4908-449d-8732-9894939e66e7
+2026-03-26 15:39:15 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: '79eff80f-5c55-44da-883c-caf9c92da534',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: '79eff80f-5c55-44da-883c-caf9c92da534',
+  test_result: 'pending',
+  automate_session_name: 'Verify Invalid Login with Empty Username',
+  test_file_path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_id: '7b14b7ad-4908-449d-8732-9894939e66e7',
+  test_name: 'Verify Invalid Login with Empty Username',
+  test_location: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_code: null,
+  test_tags: [ '@LandingPageInvalidLogin' ],
+  test_started_at: '2026-03-26T12:39:00.817Z',
+  test_scope: 'Landing Page Invalid Login',
+  test_scopes: [ 'Landing Page Invalid Login' ],
+  test_rerun_name: 'Verify Invalid Login with Empty Username',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+      name: 'Landing Page Invalid Login',
+      description: ''
+    },
+    scenario: { name: 'Verify Invalid Login with Empty Username' }
+  }
+}
+2026-03-26 15:39:15 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:39:15 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:39:18 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:39:18 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:18 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:39:18 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:39:18 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:39:19 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:19 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:20 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:20 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:20 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:39:20 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:39:20 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:39:22 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:22 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:22 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:39:22 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:39:22 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:39:25 - [32minfo[39m: [PlaywrightDriverModule] testId: 977caf4c-bcc8-4aaa-bfd4-0f2c83f45823
+2026-03-26 15:39:25 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: 'a5f0b3ff-6b8a-49ba-8781-b65d847a5090',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: 'a5f0b3ff-6b8a-49ba-8781-b65d847a5090',
+  test_result: 'pending',
+  automate_session_name: 'Verify Login',
+  test_file_path: 'tests\\feature\\Landing Page\\landingPageLogin.feature',
+  test_id: '977caf4c-bcc8-4aaa-bfd4-0f2c83f45823',
+  test_name: 'Verify Login',
+  test_location: 'tests\\feature\\Landing Page\\landingPageLogin.feature',
+  test_code: null,
+  test_tags: [ '@LandingPageLogin' ],
+  test_started_at: '2026-03-26T12:39:01.590Z',
+  test_scope: 'Landing Page Login',
+  test_scopes: [ 'Landing Page Login' ],
+  test_rerun_name: 'Verify Login',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Landing Page\\landingPageLogin.feature',
+      name: 'Landing Page Login',
+      description: ''
+    },
+    scenario: { name: 'Verify Login' }
+  }
+}
+2026-03-26 15:39:25 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:39:25 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:39:26 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:26 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:26 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:27 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:27 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:39:27 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:39:27 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:39:27 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:28 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:28 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:39:28 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:39:28 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:39:29 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:39:29 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:39:29 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:39:29 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:39:31 - [32minfo[39m: [PlaywrightDriverModule] testId: 51203ee2-7fbc-4c26-97a4-916ac81fefaa
+2026-03-26 15:39:31 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: 'a2e800a6-f9df-4770-88e7-1b60719ea364',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: 'a2e800a6-f9df-4770-88e7-1b60719ea364',
+  test_result: 'pending',
+  automate_session_name: 'Verify Invalid Login with Empty Username',
+  test_file_path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_id: '51203ee2-7fbc-4c26-97a4-916ac81fefaa',
+  test_name: 'Verify Invalid Login with Empty Username',
+  test_location: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_code: null,
+  test_tags: [ '@LandingPageInvalidLogin' ],
+  test_started_at: '2026-03-26T12:39:12.612Z',
+  test_scope: 'Landing Page Invalid Login',
+  test_scopes: [ 'Landing Page Invalid Login' ],
+  test_rerun_name: 'Verify Invalid Login with Empty Username',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+      name: 'Landing Page Invalid Login',
+      description: ''
+    },
+    scenario: { name: 'Verify Invalid Login with Empty Username' }
+  }
+}
+2026-03-26 15:39:31 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:39:31 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:39:35 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:39:35 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:39:35 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:39:35 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:39:35 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:38 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:38 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:38 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:38 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:38 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:39 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:39 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:39:39 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:39:39 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:39:39 - [32minfo[39m: [GrpcClient] Sending DriverInit
+2026-03-26 15:39:39 - [32minfo[39m: [GrpcClient] DriverInit request successful
+2026-03-26 15:39:39 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:39 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:40 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:40 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:39:40 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:39:40 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:39:40 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:40 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:39:40 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:39:40 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:39:40 - [32minfo[39m: [GrpcClient] Sending DriverInit
+2026-03-26 15:39:40 - [32minfo[39m: [GrpcClient] DriverInit request successful
+2026-03-26 15:39:42 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:42 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:42 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:39:42 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:39:42 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:39:45 - [32minfo[39m: [PlaywrightDriverModule] testId: b24b5a28-2eea-417e-a04e-eee83343dc28
+2026-03-26 15:39:45 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: '72063f6c-538e-48ea-9600-2952baf3bb02',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: '72063f6c-538e-48ea-9600-2952baf3bb02',
+  test_result: 'pending',
+  automate_session_name: 'Verify Invalid Login with Empty Password',
+  test_file_path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_id: 'b24b5a28-2eea-417e-a04e-eee83343dc28',
+  test_name: 'Verify Invalid Login with Empty Password',
+  test_location: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_code: null,
+  test_tags: [ '@LandingPageInvalidLogin' ],
+  test_started_at: '2026-03-26T12:39:18.738Z',
+  test_scope: 'Landing Page Invalid Login',
+  test_scopes: [ 'Landing Page Invalid Login' ],
+  test_rerun_name: 'Verify Invalid Login with Empty Password',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+      name: 'Landing Page Invalid Login',
+      description: ''
+    },
+    scenario: { name: 'Verify Invalid Login with Empty Password' }
+  }
+}
+2026-03-26 15:39:45 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:39:45 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:39:47 - [32minfo[39m: [PlaywrightDriverModule] testId: 5a5a7b29-090a-4d97-9ace-b1da655c81a8
+2026-03-26 15:39:47 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: 'c6786013-f7a9-4720-adec-190eda05b774',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: 'c6786013-f7a9-4720-adec-190eda05b774',
+  test_result: 'pending',
+  automate_session_name: 'Logout Feature',
+  test_file_path: 'tests\\feature\\Logout\\logout.feature',
+  test_id: '5a5a7b29-090a-4d97-9ace-b1da655c81a8',
+  test_name: 'Logout Feature',
+  test_location: 'tests\\feature\\Logout\\logout.feature',
+  test_code: null,
+  test_tags: [ '@Logout' ],
+  test_started_at: '2026-03-26T12:39:29.810Z',
+  test_scope: 'Logout',
+  test_scopes: [ 'Logout' ],
+  test_rerun_name: 'Logout Feature',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Logout\\logout.feature',
+      name: 'Logout',
+      description: ''
+    },
+    scenario: { name: 'Logout Feature' }
+  }
+}
+2026-03-26 15:39:47 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:39:47 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:39:49 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:39:49 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:39:49 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:39:49 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:39:49 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:52 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:39:52 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:39:52 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:52 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:52 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:53 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:53 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:39:53 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:39:53 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:39:53 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:54 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:39:54 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:39:54 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:39:54 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:39:57 - [32minfo[39m: [PlaywrightDriverModule] testId: 1470e99d-f24b-43ec-8de8-5b587017f9b3
+2026-03-26 15:39:57 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: '092a3ad5-835e-435c-b87d-95fb767cc6f1',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: '092a3ad5-835e-435c-b87d-95fb767cc6f1',
+  test_result: 'pending',
+  automate_session_name: 'Verify Invalid Login with Empty Password',
+  test_file_path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_id: '1470e99d-f24b-43ec-8de8-5b587017f9b3',
+  test_name: 'Verify Invalid Login with Empty Password',
+  test_location: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+  test_code: null,
+  test_tags: [ '@LandingPageInvalidLogin' ],
+  test_started_at: '2026-03-26T12:39:35.775Z',
+  test_scope: 'Landing Page Invalid Login',
+  test_scopes: [ 'Landing Page Invalid Login' ],
+  test_rerun_name: 'Verify Invalid Login with Empty Password',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Landing Page\\landingPageInvalidLogin.feature',
+      name: 'Landing Page Invalid Login',
+      description: ''
+    },
+    scenario: { name: 'Verify Invalid Login with Empty Password' }
+  }
+}
+2026-03-26 15:39:57 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:39:57 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:40:01 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:40:01 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:40:01 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:40:01 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:40:01 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:40:03 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:40:03 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:40:04 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:40:05 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:40:05 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:40:05 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:40:05 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:40:05 - [32minfo[39m: [GrpcClient] Sending DriverInit
+2026-03-26 15:40:05 - [32minfo[39m: [GrpcClient] DriverInit request successful
+2026-03-26 15:40:05 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:40:06 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:40:06 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:40:06 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:40:06 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:40:06 - [32minfo[39m: [GrpcClient] Sending DriverInit
+2026-03-26 15:40:06 - [32minfo[39m: [GrpcClient] DriverInit request successful
+2026-03-26 15:40:07 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:40:07 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:40:08 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:40:09 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:40:09 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:40:09 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:40:09 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:40:09 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:40:10 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:40:10 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:40:10 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:40:10 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:40:11 - [32minfo[39m: [PlaywrightDriverModule] testId: 08718710-29d5-4394-9fe2-9863659d8aef
+2026-03-26 15:40:11 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: '7843b5e4-0576-462f-975c-efb1bcf2e559',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: '7843b5e4-0576-462f-975c-efb1bcf2e559',
+  test_result: 'pending',
+  automate_session_name: 'Verify Login',
+  test_file_path: 'tests\\feature\\Landing Page\\landingPageLogin.feature',
+  test_id: '08718710-29d5-4394-9fe2-9863659d8aef',
+  test_name: 'Verify Login',
+  test_location: 'tests\\feature\\Landing Page\\landingPageLogin.feature',
+  test_code: null,
+  test_tags: [ '@LandingPageLogin' ],
+  test_started_at: '2026-03-26T12:39:49.618Z',
+  test_scope: 'Landing Page Login',
+  test_scopes: [ 'Landing Page Login' ],
+  test_rerun_name: 'Verify Login',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Landing Page\\landingPageLogin.feature',
+      name: 'Landing Page Login',
+      description: ''
+    },
+    scenario: { name: 'Verify Login' }
+  }
+}
+2026-03-26 15:40:11 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:40:11 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:40:13 - [32minfo[39m: [PlaywrightDriverModule] testId: fe3103e4-db08-450a-8d46-d0ca1816853f
+2026-03-26 15:40:13 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: '52622786-945e-4b38-8c59-1767bbd540ac',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: '52622786-945e-4b38-8c59-1767bbd540ac',
+  test_result: 'pending',
+  automate_session_name: 'Verify Login',
+  test_file_path: 'tests\\feature\\Landing Page\\landingPageLogin.feature',
+  test_id: 'fe3103e4-db08-450a-8d46-d0ca1816853f',
+  test_name: 'Verify Login',
+  test_location: 'tests\\feature\\Landing Page\\landingPageLogin.feature',
+  test_code: null,
+  test_tags: [ '@LandingPageLogin' ],
+  test_started_at: '2026-03-26T12:40:01.637Z',
+  test_scope: 'Landing Page Login',
+  test_scopes: [ 'Landing Page Login' ],
+  test_rerun_name: 'Verify Login',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Landing Page\\landingPageLogin.feature',
+      name: 'Landing Page Login',
+      description: ''
+    },
+    scenario: { name: 'Verify Login' }
+  }
+}
+2026-03-26 15:40:13 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:40:13 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:40:15 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:40:15 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:40:15 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:40:15 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:40:15 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:40:17 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:40:17 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:40:17 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:40:17 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:40:17 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:40:22 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:40:22 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:40:22 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:40:23 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:40:23 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:40:23 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:40:23 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:40:23 - [32minfo[39m: [GrpcClient] Sending DriverInit
+2026-03-26 15:40:23 - [32minfo[39m: [GrpcClient] DriverInit request successful
+2026-03-26 15:40:24 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:40:24 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:40:24 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:40:24 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:40:24 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:40:24 - [32minfo[39m: [GrpcClient] Sending DriverInit
+2026-03-26 15:40:24 - [32minfo[39m: [GrpcClient] DriverInit request successful
+2026-03-26 15:40:25 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:40:25 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:40:25 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:40:26 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:40:26 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:40:26 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:40:26 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:40:27 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:40:27 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2026-03-26 15:40:27 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:40:27 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:40:27 - [32minfo[39m: [ObservabilityModule] onBeforeTest: TEST REPORTING AND ANALYTICS sync done
+2026-03-26 15:40:31 - [32minfo[39m: [PlaywrightDriverModule] testId: 978d3bbe-2099-46c4-b8a4-18dfc8eb729c
+2026-03-26 15:40:31 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: '6bcd5fe3-4e2c-4b99-aad3-69c7ff77ff94',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: '6bcd5fe3-4e2c-4b99-aad3-69c7ff77ff94',
+  test_result: 'pending',
+  automate_session_name: 'Logout Feature',
+  test_file_path: 'tests\\feature\\Logout\\logout.feature',
+  test_id: '978d3bbe-2099-46c4-b8a4-18dfc8eb729c',
+  test_name: 'Logout Feature',
+  test_location: 'tests\\feature\\Logout\\logout.feature',
+  test_code: null,
+  test_tags: [ '@Logout' ],
+  test_started_at: '2026-03-26T12:40:15.316Z',
+  test_scope: 'Logout',
+  test_scopes: [ 'Logout' ],
+  test_rerun_name: 'Logout Feature',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Logout\\logout.feature',
+      name: 'Logout',
+      description: ''
+    },
+    scenario: { name: 'Logout Feature' }
+  }
+}
+2026-03-26 15:40:31 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:40:31 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:40:32 - [32minfo[39m: [PlaywrightDriverModule] testId: ee4cfd1f-e59d-4c4d-8b1a-f0a49c4c1150
+2026-03-26 15:40:32 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: {
+  uuid: '641dd3ac-8a44-4fda-b64e-022242e0ea65',
+  test_framework_name: 'cucumber',
+  test_framework_version: '12.7.0',
+  test_logs: [],
+  test_hooks_finished: {},
+  test_hooks_started: {},
+  test_uuid: '641dd3ac-8a44-4fda-b64e-022242e0ea65',
+  test_result: 'pending',
+  automate_session_name: 'Logout Feature',
+  test_file_path: 'tests\\feature\\Logout\\logout.feature',
+  test_id: 'ee4cfd1f-e59d-4c4d-8b1a-f0a49c4c1150',
+  test_name: 'Logout Feature',
+  test_location: 'tests\\feature\\Logout\\logout.feature',
+  test_code: null,
+  test_tags: [ '@Logout' ],
+  test_started_at: '2026-03-26T12:40:17.915Z',
+  test_scope: 'Logout',
+  test_scopes: [ 'Logout' ],
+  test_rerun_name: 'Logout Feature',
+  custom_metadata: {},
+  test_meta: {
+    feature: {
+      path: 'tests\\feature\\Logout\\logout.feature',
+      name: 'Logout',
+      description: ''
+    },
+    scenario: { name: 'Logout Feature' }
+  }
+}
+2026-03-26 15:40:32 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2026-03-26 15:40:32 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2026-03-26 15:40:34 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:40:34 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:40:36 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2026-03-26 15:40:36 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2026-03-26 15:40:39 - [32minfo[39m: Visit https://automation.browserstack.com/builds/isrme8t5tykhenudfhmx1rl1sge3cgfqlsk4vkbp to view build report, insights, and many more debugging information all at one place!
+
+2026-03-26 15:40:39 - [32minfo[39m: [BrowserstackCLI] stop: CLI stop triggered
+2026-03-26 15:40:39 - [32minfo[39m: [BrowserstackCLI] stop: CLI stop triggered
+2026-03-26 15:40:39 - [32minfo[39m: [GrpcClient] Stopping bin session
+2026-03-26 15:40:39 - [32minfo[39m: [GrpcClient] Stopping bin session
+2026-03-26 15:40:40 - [31merror[39m: [BrowserstackCLI] CLI stderr: Exiting with code 1 due to uncaught exception Error: spawn wmic.exe ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:284:19)
+    at onErrorNT (node:internal/child_process:477:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'spawn wmic.exe',
+  path: 'wmic.exe',
+  spawnargs: [ 'PROCESS', 'GET', 'Name,ProcessId,ParentProcessId,Status' ]
+}
+2026-03-26 15:40:40 - [31merror[39m: [BrowserstackCLI] CLI stderr: Exiting with code 1 due to uncaught exception Error: spawn wmic.exe ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:284:19)
+    at onErrorNT (node:internal/child_process:477:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'spawn wmic.exe',
+  path: 'wmic.exe',
+  spawnargs: [ 'PROCESS', 'GET', 'Name,ProcessId,ParentProcessId,Status' ]
+}

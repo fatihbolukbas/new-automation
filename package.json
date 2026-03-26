@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "cucumber-js --parallel 4",
-    "test:sequential": "cucumber-js --parallel 1"
+    "test:sequential": "cucumber-js --parallel 1",
+    "postinstall": "npm update browserstack-node-sdk",
+    "test-browserstack": "browserstack-node-sdk cucumber-js --parallel 4",
+    "test:sequential-browserstack": "browserstack-node-sdk cucumber-js --parallel 1"
   },
   "keywords": [],
   "author": "",
@@ -14,6 +17,7 @@
     "@cucumber/cucumber": "^12.7.0",
     "@playwright/test": "^1.58.2",
     "@types/node": "^25.5.0",
+    "browserstack-node-sdk": "^1.50.7",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
   }
