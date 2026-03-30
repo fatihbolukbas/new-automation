@@ -115,41 +115,4 @@ export default class BaseActions {
             console.error(`Failed to take screenshot: ${error}`);
         }
     }
-
-    // New method: Click with retry logic
-    async clickWithRetry(
-        element: Locator,
-        maxRetries = 3,
-        timeout = 5000
-    ) {
-        let lastError: Error | undefined;
-
-        for (let attempt = 1; attempt <= maxRetries; attempt++) {
-            try {
-                console.log(`Attempt ${attempt}/${maxRetries} to click element`);
-                await this.clickElement(element, timeout);
-                return;
-            } catch (error) {
-                lastError = error as Error;
-                if (attempt < maxRetries) {
-                    console.warn(`Retry attempt ${attempt} failed, retrying...`);
-                    await this.page.waitForTimeout(1000); // Wait 1 second before retry
-                }
-            }
-        }
-
-        throw new Error(
-            `Failed to click element after ${maxRetries} retries: ${lastError}`
-        );
-    }
-
-    // New method: Wait for loading to finish
-    async waitForLoadingToFinish(timeout = 10000) {
-        try {
-            const loader = this.page.locator('[data-testid="loader"]');
-            await loader.waitFor({ state: "hidden", timeout });
-        } catch {
-            console.warn("Loading indicator not found or timeout");
-        }
-    }
 }
